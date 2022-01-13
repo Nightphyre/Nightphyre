@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nightphyre
+- 👋 Hi, I’m @Nightphyre and new to GitHub!
 - 👀 I’m interested in Linux programming and coding, especially in C and assembler.
-- 🌱 I’m currently learning what I can and when I can, lol!
+- 🌱 I’m currently learning what I can and when I can, lol! (C, little C++, learned Java and assembler almost 20 years ago) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
