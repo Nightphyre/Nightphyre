@@ -5,3 +5,10 @@ wget -q -O - https://archive.kali.org/archive-key.asc | gpg --import
 //* k http *//
 
 gpg --fingerprint 44C6513A8E4FB3D30875F758ED444FF07D8D0BF6
+
+
+//* OUTPUT 
+//* pub   rsa4096 2012-03-05 [SC] [expires: 2025-01-24]
+      44C6 513A 8E4F B3D3 0875  F758 ED44 4FF0 7D8D 0BF6
+uid           [ full] Kali Linux Repository <devel@kali.org>
+sub   rsa4096 2012-03-05 [E] [expires: 2025-01-24] *//
