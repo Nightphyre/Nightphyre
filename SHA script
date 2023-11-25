@@ -4,3 +4,4 @@ wget -q -O - https://archive.kali.org/archive-key.asc | gpg --import
 *//
 //* k http *//
 
+gpg --fingerprint 44C6513A8E4FB3D30875F758ED444FF07D8D0BF6
