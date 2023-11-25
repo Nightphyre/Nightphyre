@@ -1,1 +1,6 @@
 wget -q -O - https://archive.kali.org/archive-key.asc | gpg --import
+
+//* gpg --keyserver hkps://keys.openpgp.org --recv-key 44C6513A8E4FB3D30875F758ED444FF07D8D0BF6
+*//
+//* k http *//
+
