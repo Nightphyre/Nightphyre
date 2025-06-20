@@ -2,3 +2,4 @@ netstat -a
 ifconfig
 nmap -A -V
 dmesg
+man -k <command> (retrieve command list)
