@@ -1,0 +1,657 @@
+  File has unexpected size (4397 != 203670). Mirror sync in progress? [IP: 216.12.232.243 443]
+  Hashes of expected file:
+   - SHA512:4a7cc31ae9ff44e6d04df94e6c70232cc4a9c026b593ec4aa9b05a218ba374e1621d1d7b25ee93ea69a25230e4447c0dbc6649ce77e064b02c87b3333a8221e8
+   - SHA256:c9f4ad5a7293eab8377261e615ef7ad37d1c79b7a61c144d1fd161aec6e5a5d0
+   - SHA1:c88f34029bb2444b8d71f968b1e928a2acd5ca85 [weak]
+   - MD5Sum:37eae1dfc1768abf3a62911782606f8c [weak]
+   - Filesize:203670 [weak]
+E: Failed to fetch https://login-mcd-cluster.prd.rcsntx.attwifi.com/guest/mcd2019.php?apname=a030z00000lm6Dh-02i0z00000WdlI8&switchip=secure-login.attwifi.com&nas-id=a030z00000lm6Dh&cmd=login&apmac=c8%3Ab5%3Aad%3Acd%3A9c%3Ab0&essid=McDonalds%20Free%20WiFi&ip=192.168.5.170&vcname=a030z00000lm6Dh&mac=38%3A7a%3A0e%3A4b%3A19%3A55&url=https%3A%2F%2Fwww.mcdonalds.com%2Fwifi&venueConfigId=a030z00000lm6Dh-a1m0z000001gZeu&b=eyJ1dmVyc2UiOiAiMCIsICJ2ZW51ZUNvbmZpZ0lkIjogImEwMzB6MDAwMDBs%0AbTZEaC1hMW0wejAwMDAwMWdaZXUiLCAidHdpdHRlciI6ICIwIiwgIndoaXRl%0ATGFiZWwiOiAiMCIsICJpZnJhbWVVcmwiOiAiIiwgImJnIjogImh0dHBzOi8v%0AbG9naW4uYXR0d2lmaS5jb20vaW1hZ2VzL0JhY2tHcm91bmRfSU1HXzEyODBf%0AY3JvcC5qcGciLCAibWNkIjogIjAiLCAiY29ubmVjdCI6ICIxIiwgImxvZ28i%0AOiAiIiwgImxvZ2luVGV4dCI6ICIiLCAiaWQiOiAiYTAzMHowMDAwMGxtNkRo%0ALWExbTB6MDAwMDAxZ1pldSIsICJzdHlsZSI6ICJodHRwczovL2xvZ2luLmF0%0AdHdpZmkuY29tL2Nzcy9hdHRzYm8uY3NzIiwgInJlZGlyIjogImh0dHBzOi8v%0Ad3d3Lm1jZG9uYWxkcy5jb20vd2lmaSIsICJwYW5lbEFsaWduIjogImxlZnQi%0ALCAidXNlcm5hbWUiOiAiYTAzMHowMDAwMGxtNkRoX2d1ZXN0QGF0dC13aWZp%0ALmNvbSIsICJ2ZW51ZVppcENvZGUiOiAiMjg0NjEtODcxMSIsICJwcm9tb2Nv%0AZGUiOiAiMCIsICJ2ZW51ZVN0cmVldCI6ICI0OTkyIExPTkcgQkVBQ0ggUkQg%0AU0UiLCAicGhvbmUiOiAiIiwgImZhY2Vib29rIjogIjAiLCAidmVudWVDaXR5%0AIjogIlNvdXRocG9ydCIsICJwcmVmZXJyZWRMYW5nIjogIiIsICJjdXN0b21U%0Ab3MiOiAiIiwgInZlbnVlU3RhdGUiOiAiTkMiLCAibmFtZSI6ICJNY0RvbmFs%0AZCdzIDA3NzAyIiwgImFkc3VwcG9ydGVkIjogIjAiLCAidmVudWUiOiAiYTAz%0AMHowMDAwMGxtNkRoIiwgImxpbmtlZEluIjogIjAiLCAicGFnZWJnY29sb3Ii%0AOiAiIiwgInZlbnVlU3RyZWV0MiI6ICIiLCAicHJpdmFjeVBvbGljeSI6ICIi%0ALCAiY29tcGFueVdlYnNpdGUiOiAiIiwgImV4dGVybmFsTG9jYXRpb25JZCI6%0AICIwNzcwMiIsICJwbGFuIjogIkVudGVycHJpc2UgU3RhbmRhcmQiLCAiX3Jp%0AZCI6ICJ5UDVjQU9la3FzMEZpQUFBQUFBQUFBPT0iLCAiX3NlbGYiOiAiZGJz%0AL3lQNWNBQT09L2NvbGxzL3lQNWNBT2VrcXMwPS9kb2NzL3lQNWNBT2VrcXMw%0ARmlBQUFBQUFBQUE9PS8iLCAiX2V0YWciOiAiXCIyNDAwZjE3MC0wMDAwLTAy%0AMDAtMDAwMC02NmIyZDlhNDAwMDBcIiIsICJfYXR0YWNobWVudHMiOiAiYXR0%0AYWNobWVudHMvIiwgIl90cyI6IDE3MjI5OTcxNTYsICJhZGRyZXNzIjogIjQ5%0AOTIgTE9ORyBCRUFDSCBSRCBTRVxuU291dGhwb3J0LCBOQyAyODQ2MS04NzEx%0AIn0%3D&hash=f8e5ec43a717c7419fd1df75349ebc30ee9fe0d8  File has unexpected size (4397 != 203670). Mirror sync in progress? [IP: 216.12.232.243 443]
+   Hashes of expected file:
+    - SHA512:4a7cc31ae9ff44e6d04df94e6c70232cc4a9c026b593ec4aa9b05a218ba374e1621d1d7b25ee93ea69a25230e4447c0dbc6649ce77e064b02c87b3333a8221e8
+    - SHA256:c9f4ad5a7293eab8377261e615ef7ad37d1c79b7a61c144d1fd161aec6e5a5d0
+    - SHA1:c88f34029bb2444b8d71f968b1e928a2acd5ca85 [weak]
+    - MD5Sum:37eae1dfc1768abf3a62911782606f8c [weak]
+    - Filesize:203670 [weak]
+E: Unable to fetch some archives, maybe run apt-get update or try with --fix-missing?
+ubuntu@ubuntu:~$ ^C
+ubuntu@ubuntu:~$ 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+hash = how to use?
+f8e5ec43a717c7419fd1df75349ebc30ee9fe0d8
+
+--------------------------------------------------------------------------------------------------------------------------------------
+ubuntu@ubuntu:~$ tcpdump
+tcpdump: wlo1: You don't have permission to perform this capture on that device
+(socket: Operation not permitted)
+ubuntu@ubuntu:~$ sudo tcpdump
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on wlo1, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+17:28:28.888382 IP6 ubuntu > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+17:28:28.899444 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 38:7a:0e:4b:19:55 (oui Unknown), length 290
+17:28:28.933419 IP6 ubuntu > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+17:28:28.955232 ARP, Request who-has _gateway tell ubuntu, length 28
+17:28:29.019543 ARP, Reply _gateway is-at 20:4c:03:03:e5:10 (oui Unknown), length 42
+17:28:29.019567 IP ubuntu.47908 > custcache00.wayport.net.domain: 35404+ [1au] PTR? 6.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (101)
+17:28:29.138946 IP custcache00.wayport.net.domain > ubuntu.47908: 35404 NXDomain 0/1/1 (165)
+17:28:29.142672 IP ubuntu.51491 > custcache00.wayport.net.domain: 49529+ [1au] PTR? 1.4.168.192.in-addr.arpa. (53)
+17:28:29.214288 IP custcache00.wayport.net.domain > ubuntu.51491: 49529 NXDomain* 0/1/1 (108)
+17:28:29.215785 IP ubuntu.58419 > custcache00.wayport.net.domain: 34054+ [1au] PTR? 170.5.168.192.in-addr.arpa. (55)
+17:28:29.276216 IP custcache00.wayport.net.domain > ubuntu.58419: 34054 NXDomain* 0/1/1 (110)
+17:28:29.278454 IP ubuntu.43693 > custcache00.wayport.net.domain: 47369+ [1au] PTR? 2.255.134.64.in-addr.arpa. (54)
+17:28:29.354065 IP custcache00.wayport.net.domain > ubuntu.43693: 47369 1/2/3 PTR custcache00.wayport.net. (163)
+17:28:30.899474 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 38:7a:0e:4b:19:55 (oui Unknown), length 290
+17:28:31.904574 IP _gateway.bootps > ubuntu.bootpc: BOOTP/DHCP, Reply, length 278
+17:28:31.904650 IP ubuntu > _gateway: ICMP ubuntu udp port bootpc unreachable, length 314
+17:28:31.904966 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 38:7a:0e:4b:19:55 (oui Unknown), length 296
+17:28:31.910837 IP _gateway.bootps > ubuntu.bootpc: BOOTP/DHCP, Reply, length 278
+17:28:31.910865 IP ubuntu > _gateway: ICMP ubuntu udp port bootpc unreachable, length 314
+17:28:35.903141 ARP, Request who-has ubuntu tell _gateway, length 42
+17:28:35.903162 ARP, Reply ubuntu is-at 38:7a:0e:4b:19:55 (oui Unknown), length 28
+17:28:50.417476 IP ubuntu.60292 > 123.208.120.34.bc.googleusercontent.com.https: Flags [P.], seq 4271348306:4271348481, ack 4147505152, win 476, options [nop,nop,TS val 3499259394 ecr 1331622398], length 175
+17:28:50.470149 IP 123.208.120.34.bc.googleusercontent.com.https > ubuntu.60292: Flags [R], seq 4147505152, win 0, length 0
+17:28:50.482112 IP ubuntu.51886 > custcache00.wayport.net.domain: 10901+ [1au] PTR? 123.208.120.34.in-addr.arpa. (56)
+17:28:50.640510 IP custcache00.wayport.net.domain > ubuntu.51886: 10901 1/4/1 PTR 123.208.120.34.bc.googleusercontent.com. (239)
+17:28:55.436778 IP lb-140-82-113-4-iad.github.com.https > ubuntu.55342: Flags [F.], seq 637588279, ack 3108392141, win 68, options [nop,nop,TS val 1750448507 ecr 3397062272], length 0
+17:28:55.436841 IP ubuntu.55342 > lb-140-82-113-4-iad.github.com.https: Flags [.], ack 1, win 471, options [nop,nop,TS val 3397152279 ecr 1750448507], length 0
+17:28:55.474569 IP ubuntu.59315 > custcache00.wayport.net.domain: 37307+ [1au] PTR? 4.113.82.140.in-addr.arpa. (54)
+17:28:55.642909 IP custcache00.wayport.net.domain > ubuntu.59315: 37307 1/4/7 PTR lb-140-82-113-4-iad.github.com. (319)
+17:29:02.020301 IP6 ubuntu > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+17:29:02.027522 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 38:7a:0e:4b:19:55 (oui Unknown), length 290
+17:29:02.145344 IP6 ubuntu > ff02::16: HBH ICMP6, multicast listener report v2, 2 group record(s), length 48
+17:29:04.027528 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 38:7a:0e:4b:19:55 (oui Unknown), length 290
+17:29:04.196975 IP _gateway.bootps > ubuntu.bootpc: BOOTP/DHCP, Reply, length 278
+17:29:04.197056 ARP, Request who-has _gateway tell ubuntu, length 28
+17:29:04.197391 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 38:7a:0e:4b:19:55 (oui Unknown), length 296
+17:29:04.199118 ARP, Reply _gateway is-at 20:4c:03:03:e5:10 (oui Unknown), length 42
+17:29:04.199140 IP ubuntu > _gateway: ICMP ubuntu udp port bootpc unreachable, length 314
+17:29:04.204400 IP _gateway.bootps > ubuntu.bootpc: BOOTP/DHCP, Reply, length 278
+17:29:04.204431 IP ubuntu > _gateway: ICMP ubuntu udp port bootpc unreachable, length 314
+^C
+40 packets captured
+40 packets received by filter
+0 packets dropped by kernel
+ubuntu@ubuntu:~$ tcpdump -v
+tcpdump: wlo1: You don't have permission to perform this capture on that device
+(socket: Operation not permitted)
+ubuntu@ubuntu:~$ sudo tcpdump -v
+tcpdump: listening on wlo1, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+17:29:30.790905 IP (tos 0x0, ttl 64, id 29410, offset 0, flags [none], proto UDP (17), length 86)
+    ubuntu.38793 > custcache00.wayport.net.domain: 42656+ [1au] A? connectivity-check.ubuntu.com. (58)
+17:29:30.891339 IP (tos 0x0, ttl 64, id 37343, offset 0, flags [none], proto UDP (17), length 82)
+    ubuntu.55188 > custcache00.wayport.net.domain: 21204+ [1au] PTR? 2.255.134.64.in-addr.arpa. (54)
+17:29:30.915860 IP (tos 0x0, ttl 236, id 1709, offset 0, flags [DF], proto UDP (17), length 446)
+    custcache00.wayport.net.domain > ubuntu.38793: 42656 12/3/6 connectivity-check.ubuntu.com. A 185.125.190.48, connectivity-check.ubuntu.com. A 185.125.190.49, connectivity-check.ubuntu.com. A 91.189.91.98, connectivity-check.ubuntu.com. A 91.189.91.48, connectivity-check.ubuntu.com. A 185.125.190.18, connectivity-check.ubuntu.com. A 91.189.91.96, connectivity-check.ubuntu.com. A 185.125.190.96, connectivity-check.ubuntu.com. A 91.189.91.49, connectivity-check.ubuntu.com. A 91.189.91.97, connectivity-check.ubuntu.com. A 185.125.190.97, connectivity-check.ubuntu.com. A 185.125.190.17, connectivity-check.ubuntu.com. A 185.125.190.98 (418)
+17:29:30.917913 IP (tos 0x0, ttl 64, id 38208, offset 0, flags [DF], proto TCP (6), length 60)
+    ubuntu.39722 > gladys.canonical.com.http: Flags [S], cksum 0x3e2f (incorrect -> 0x6c41), seq 2650519244, win 64240, options [mss 1460,sackOK,TS val 2830764496 ecr 0,nop,wscale 7], length 0
+17:29:30.952812 IP (tos 0x0, ttl 236, id 50898, offset 0, flags [DF], proto UDP (17), length 191)
+    custcache00.wayport.net.domain > ubuntu.55188: 21204 1/2/3 2.255.134.64.in-addr.arpa. PTR custcache00.wayport.net. (163)
+17:29:30.954159 IP (tos 0x0, ttl 64, id 3595, offset 0, flags [none], proto UDP (17), length 83)
+    ubuntu.44062 > custcache00.wayport.net.domain: 40995+ [1au] PTR? 170.5.168.192.in-addr.arpa. (55)
+17:29:31.016243 IP (tos 0x0, ttl 48, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    gladys.canonical.com.http > ubuntu.39722: Flags [S.], cksum 0xe016 (correct), seq 2007909589, ack 2650519245, win 65160, options [mss 1460,sackOK,TS val 2222671739 ecr 2830764496,nop,wscale 14], length 0
+17:29:31.016338 IP (tos 0x0, ttl 64, id 38209, offset 0, flags [DF], proto TCP (6), length 52)
+    ubuntu.39722 > gladys.canonical.com.http: Flags [.], cksum 0x3e27 (incorrect -> 0x0b1a), ack 1, win 502, options [nop,nop,TS val 2830764595 ecr 2222671739], length 0
+17:29:31.016628 IP (tos 0x0, ttl 64, id 38210, offset 0, flags [DF], proto TCP (6), length 140)
+    ubuntu.39722 > gladys.canonical.com.http: Flags [P.], cksum 0x3e7f (incorrect -> 0x800d), seq 1:89, ack 1, win 502, options [nop,nop,TS val 2830764595 ecr 2222671739], length 88: HTTP, length: 88
+	GET / HTTP/1.1
+	Host: connectivity-check.ubuntu.com.
+	Accept: */*
+	Connection: close
+	
+17:29:31.022318 IP (tos 0x0, ttl 236, id 37964, offset 0, flags [DF], proto UDP (17), length 138)
+    custcache00.wayport.net.domain > ubuntu.44062: 40995 NXDomain* 0/1/1 (110)
+17:29:31.024006 IP (tos 0x0, ttl 64, id 49796, offset 0, flags [none], proto UDP (17), length 84)
+    ubuntu.40416 > custcache00.wayport.net.domain: 37310+ [1au] PTR? 48.190.125.185.in-addr.arpa. (56)
+17:29:31.174579 IP (tos 0x0, ttl 48, id 12459, offset 0, flags [DF], proto TCP (6), length 241)
+    gladys.canonical.com.http > ubuntu.39722: Flags [P.], cksum 0x735f (correct), seq 1:190, ack 89, win 4, options [nop,nop,TS val 2222671849 ecr 2830764595], length 189: HTTP, length: 189
+	HTTP/1.1 204 No Content
+	server: nginx/1.14.0 (Ubuntu)
+	date: Fri, 20 Jun 2025 17:29:31 GMT
+	x-cache-status: from content-cache-gs2/1
+	x-networkmanager-status: online
+	connection: close
+	
+17:29:31.174581 IP (tos 0x0, ttl 48, id 12460, offset 0, flags [DF], proto TCP (6), length 52)
+    gladys.canonical.com.http > ubuntu.39722: Flags [F.], cksum 0x0b88 (correct), seq 190, ack 89, win 4, options [nop,nop,TS val 2222671849 ecr 2830764595], length 0
+17:29:31.174635 IP (tos 0x0, ttl 64, id 38211, offset 0, flags [DF], proto TCP (6), length 52)
+    ubuntu.39722 > gladys.canonical.com.http: Flags [.], cksum 0x3e27 (incorrect -> 0x08fa), ack 190, win 501, options [nop,nop,TS val 2830764753 ecr 2222671849], length 0
+17:29:31.174827 IP (tos 0x0, ttl 64, id 38212, offset 0, flags [DF], proto TCP (6), length 52)
+    ubuntu.39722 > gladys.canonical.com.http: Flags [F.], cksum 0x3e27 (incorrect -> 0x08f8), seq 89, ack 191, win 501, options [nop,nop,TS val 2830764753 ecr 2222671849], length 0
+17:29:31.263704 IP (tos 0x0, ttl 236, id 53176, offset 0, flags [DF], proto UDP (17), length 276)
+    custcache00.wayport.net.domain > ubuntu.40416: 37310 1/3/6 48.190.125.185.in-addr.arpa. PTR gladys.canonical.com. (248)
+17:29:31.282081 IP (tos 0x0, ttl 48, id 12461, offset 0, flags [DF], proto TCP (6), length 52)
+    gladys.canonical.com.http > ubuntu.39722: Flags [.], cksum 0x0a50 (correct), ack 90, win 4, options [nop,nop,TS val 2222672002 ecr 2830764753], length 0
+17:29:43.665504 IP (tos 0x0, ttl 64, id 48530, offset 0, flags [DF], proto TCP (6), length 286)
+    ubuntu.50922 > geoip.ubuntu.com.https: Flags [P.], cksum 0x3d65 (incorrect -> 0x6011), seq 1957433732:1957433966, ack 1013237571, win 478, options [nop,nop,TS val 2026083054 ecr 4215645979], length 234
+17:29:43.683017 IP (tos 0x0, ttl 64, id 25383, offset 0, flags [none], proto UDP (17), length 85)
+    ubuntu.43077 > custcache00.wayport.net.domain: 21683+ [1au] PTR? 132.188.125.185.in-addr.arpa. (57)
+17:29:43.973707 IP (tos 0x0, ttl 236, id 62768, offset 0, flags [DF], proto UDP (17), length 283)
+    custcache00.wayport.net.domain > ubuntu.43077: 21683 1/3/6 132.188.125.185.in-addr.arpa. PTR geoip.ubuntu.com. (255)
+17:29:44.488392 IP (tos 0x0, ttl 52, id 47274, offset 0, flags [DF], proto TCP (6), length 52)
+    geoip.ubuntu.com.https > ubuntu.50922: Flags [F.], cksum 0x34b9 (correct), seq 1, ack 0, win 483, options [nop,nop,TS val 4215958499 ecr 2025771360], length 0
+17:29:44.529424 IP (tos 0x0, ttl 64, id 48531, offset 0, flags [DF], proto TCP (6), length 52)
+    ubuntu.50922 > geoip.ubuntu.com.https: Flags [.], cksum 0x3c7b (incorrect -> 0x6ee1), ack 2, win 478, options [nop,nop,TS val 2026083918 ecr 4215958499], length 0
+^C
+22 packets captured
+22 packets received by filter
+0 packets dropped by kernel
+ubuntu@ubuntu:~$ whois wayport.net.domain
+Command 'whois' not found, but can be installed with:
+sudo apt install whois
+ubuntu@ubuntu:~$ sudo apt install whois
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following NEW packages will be installed:
+  whois
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 51.7 kB of archives.
+After this operation, 279 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu noble/main amd64 whois amd64 5.5.22 [51.7 kB]
+Fetched 51.7 kB in 2s (28.6 kB/s)
+Selecting previously unselected package whois.
+(Reading database ... 212032 files and directories currently installed.)
+Preparing to unpack .../whois_5.5.22_amd64.deb ...
+Unpacking whois (5.5.22) ...
+Setting up whois (5.5.22) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+ubuntu@ubuntu:~$ whois wayport.net.domain
+No whois server is known for this kind of object.
+ubuntu@ubuntu:~$ whois custcache00.wayport.net
+No match for "CUSTCACHE00.WAYPORT.NET".
+>>> Last update of whois database: 2025-06-20T17:33:37Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+ubuntu@ubuntu:~$ whois custcache00.wayport.net.domain
+No whois server is known for this kind of object.
+ubuntu@ubuntu:~$ whois custcache00.wayport
+No whois server is known for this kind of object.
+ubuntu@ubuntu:~$ whois wayport.net
+   Domain Name: WAYPORT.NET
+   Registry Domain ID: 77447_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2024-06-25T05:21:56Z
+   Creation Date: 1996-06-26T04:00:00Z
+   Registry Expiry Date: 2034-06-25T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: AUTH0.WAYPORT.NET
+   Name Server: AUTH1.WAYPORT.NET
+   Name Server: AUTH2.WAYPORT.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-06-20T17:33:52Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: WAYPORT.NET
+Registry Domain ID: 77447_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2024-06-25T05:23:32Z
+Creation Date: 1996-06-26T04:00:00Z
+Registrar Registration Expiration Date: 2034-06-25T04:00:00Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Wayport, Inc
+Registrant Organization: Wayport, Inc
+Registrant Street: 4509 FREIDRICH LN STE 300 BLDG III
+Registrant City: AUSTIN
+Registrant State/Province: TX
+Registrant Postal Code: 78744-1866
+Registrant Country: US
+Registrant Phone: +1.5125196000
+Registrant Phone Ext: 
+Registrant Fax: +1.9999999999
+Registrant Fax Ext: 
+Registrant Email: ew067e@att.com
+Registry Admin ID: 
+Admin Name: Watson, Erik ContactMiddleName
+Admin Organization: Wayport, Inc
+Admin Street: 4509 Freidrich Lane
+Admin City: Austin
+Admin State/Province: TX
+Admin Postal Code: 78744
+Admin Country: US
+Admin Phone: +1.5125196374
+Admin Phone Ext: 
+Admin Fax: +1.5125196450
+Admin Fax Ext: 
+Admin Email: ew067e@att.com
+Registry Tech ID: 
+Tech Name: Watson, Erik ContactMiddleName
+Tech Organization: Wayport, Inc
+Tech Street: 4509 Freidrich Lane
+Tech City: Austin
+Tech State/Province: TX
+Tech Postal Code: 78744
+Tech Country: US
+Tech Phone: +1.5125196374
+Tech Phone Ext: 
+Tech Fax: +1.5125196450
+Tech Fax Ext: 
+Tech Email: ew067e@att.com
+Name Server: AUTH1.WAYPORT.NET
+Name Server: AUTH2.WAYPORT.NET
+Name Server: AUTH0.WAYPORT.NET
+DNSSEC: unsigned
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-06-20T17:34:08Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+The data in Networksolutions.com's WHOIS database is provided to you by
+Networksolutions.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record. Networksolutions.com makes this information available "as is," and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Networksolutions.com  (or its systems). The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Networksolutions.com.
+Networksolutions.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+ubuntu@ubuntu:~$ whois networksolutions.com
+   Domain Name: NETWORKSOLUTIONS.COM
+   Registry Domain ID: 4548132_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2023-12-04T22:00:57Z
+   Creation Date: 1998-04-27T04:00:00Z
+   Registry Expiry Date: 2029-04-26T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: domain.operations@web.com
+   Registrar Abuse Contact Phone: +1.8777228662
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: BARBARA.NS.CLOUDFLARE.COM
+   Name Server: HENRY.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-06-20T17:35:38Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: NETWORKSOLUTIONS.COM
+Registry Domain ID: 4548132_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2020-02-01T05:55:26Z
+Creation Date: 1998-04-27T04:00:00Z
+Registrar Registration Expiration Date: 2029-04-26T04:00:00Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Manager, Domain
+Registrant Organization: Newfold Digital, Inc.
+Registrant Street: 5335 GATE PKWY
+Registrant City: JACKSONVILLE
+Registrant State/Province: FL
+Registrant Postal Code: 32256-3070
+Registrant Country: US
+Registrant Phone: +1.9046806600
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: corpdomains@newfold.com
+Registry Admin ID: 
+Admin Name: Manager, Domain
+Admin Organization: Newfold Digital, Inc.
+Admin Street: 5335 GATE PKWY
+Admin City: JACKSONVILLE
+Admin State/Province: FL
+Admin Postal Code: 32256-3070
+Admin Country: US
+Admin Phone: +1.9046806600
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: corpdomains@newfold.com
+Registry Tech ID: 
+Tech Name: Manager, Domain
+Tech Organization: Newfold Digital, Inc.
+Tech Street: 5335 GATE PKWY
+Tech City: JACKSONVILLE
+Tech State/Province: FL
+Tech Postal Code: 32256-3070
+Tech Country: US
+Tech Phone: +1.9046806600
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: corpdomains@newfold.com
+Name Server: BARBARA.NS.CLOUDFLARE.COM
+Name Server: HENRY.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-06-20T17:35:55Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+The data in Networksolutions.com's WHOIS database is provided to you by
+Networksolutions.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record. Networksolutions.com makes this information available "as is," and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Networksolutions.com  (or its systems). The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Networksolutions.com.
+Networksolutions.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+ubuntu@ubuntu:~$ sudo apt install nmap
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  libblas3 liblinear4 libssh2-1t64 nmap-common
+Suggested packages:
+  liblinear-tools liblinear-dev ncat ndiff zenmap
+The following NEW packages will be installed:
+  libblas3 liblinear4 libssh2-1t64 nmap nmap-common
+0 upgraded, 5 newly installed, 0 to remove and 0 not upgraded.
+Need to get 6286 kB of archives.
+After this operation, 27.4 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libblas3 amd64 3.12.0-3build1.1 [238 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble/universe amd64 liblinear4 amd64 2.3.0+dfsg-5build1 [42.3 kB]
+Get:3 http://archive.ubuntu.com/ubuntu noble/main amd64 libssh2-1t64 amd64 1.11.0-4.1build2 [120 kB]
+Get:4 http://archive.ubuntu.com/ubuntu noble/universe amd64 nmap-common all 7.94+git20230807.3be01efb1+dfsg-3build2 [4192 kB]
+Get:5 http://archive.ubuntu.com/ubuntu noble/universe amd64 nmap amd64 7.94+git20230807.3be01efb1+dfsg-3build2 [1694 kB]
+Fetched 6286 kB in 2s (2704 kB/s)
+Selecting previously unselected package libblas3:amd64.
+(Reading database ... 212043 files and directories currently installed.)
+Preparing to unpack .../libblas3_3.12.0-3build1.1_amd64.deb ...
+Unpacking libblas3:amd64 (3.12.0-3build1.1) ...
+Selecting previously unselected package liblinear4:amd64.
+Preparing to unpack .../liblinear4_2.3.0+dfsg-5build1_amd64.deb ...
+Unpacking liblinear4:amd64 (2.3.0+dfsg-5build1) ...
+Selecting previously unselected package libssh2-1t64:amd64.
+Preparing to unpack .../libssh2-1t64_1.11.0-4.1build2_amd64.deb ...
+Unpacking libssh2-1t64:amd64 (1.11.0-4.1build2) ...
+Selecting previously unselected package nmap-common.
+Preparing to unpack .../nmap-common_7.94+git20230807.3be01efb1+dfsg-3build2_all.deb ...
+Unpacking nmap-common (7.94+git20230807.3be01efb1+dfsg-3build2) ...
+Selecting previously unselected package nmap.
+Preparing to unpack .../nmap_7.94+git20230807.3be01efb1+dfsg-3build2_amd64.deb ...
+Unpacking nmap (7.94+git20230807.3be01efb1+dfsg-3build2) ...
+Setting up libblas3:amd64 (3.12.0-3build1.1) ...
+update-alternatives: using /usr/lib/x86_64-linux-gnu/blas/libblas.so.3 to provide /usr/lib/x86_64-linux-gnu/libblas.so.3 (libblas.so.3-x86_64-linux-gnu) in auto mode
+Setting up nmap-common (7.94+git20230807.3be01efb1+dfsg-3build2) ...
+Setting up libssh2-1t64:amd64 (1.11.0-4.1build2) ...
+Setting up liblinear4:amd64 (2.3.0+dfsg-5build1) ...
+Setting up nmap (7.94+git20230807.3be01efb1+dfsg-3build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.4) ...
+ubuntu@ubuntu:~$ nmap 192.168.255.255
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-06-20 17:39 UTC
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.05 seconds
+ubuntu@ubuntu:~$ nmap -Sn 192.168.255.255
+Failed to resolve/decode supposed IPv4 source address "n": Temporary failure in name resolution
+QUITTING!
+ubuntu@ubuntu:~$ sudo nmap -sS 192.168.255.255
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-06-20 17:40 UTC
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.08 seconds
+ubuntu@ubuntu:~$ tcpdump -v
+tcpdump: any: You don't have permission to perform this capture on that device
+(socket: Operation not permitted)
+ubuntu@ubuntu:~$ sudo tcpdump -v
+tcpdump: listening on wlo1, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+17:40:53.637000 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 318)
+    0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 38:7a:0e:4b:19:55 (oui Unknown), length 290, xid 0x7c792f6e, secs 1, Flags [none]
+	  Client-Ethernet-Address 38:7a:0e:4b:19:55 (oui Unknown)
+	  Vendor-rfc1048 Extensions
+	    Magic Cookie 0x63825363
+	    DHCP-Message (53), length 1: Discover
+	    Client-ID (61), length 7: ether 38:7a:0e:4b:19:55
+	    Parameter-Request (55), length 17: 
+	      Subnet-Mask (1), Time-Zone (2), Domain-Name-Server (6), Hostname (12)
+	      Domain-Name (15), MTU (26), BR (28), Classless-Static-Route (121)
+	      Default-Gateway (3), Static-Route (33), YD (40), YS (41)
+	      NTP (42), Unknown (119), Classless-Static-Route-Microsoft (249), Unknown (252)
+	      RP (17)
+	    MSZ (57), length 2: 576
+	    Requested-IP (50), length 4: ubuntu
+	    Hostname (12), length 6: "ubuntu"
+17:40:53.676036 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has _gateway tell ubuntu, length 28
+17:40:53.716330 ARP, Ethernet (len 6), IPv4 (len 4), Reply _gateway is-at 20:4c:03:03:e5:10 (oui Unknown), length 42
+17:40:53.716341 IP (tos 0x0, ttl 64, id 751, offset 0, flags [none], proto UDP (17), length 83)
+    ubuntu.54470 > custcache00.wayport.net.domain: 9325+ [1au] PTR? 170.5.168.192.in-addr.arpa. (55)
+17:40:53.796670 IP (tos 0x0, ttl 236, id 22700, offset 0, flags [DF], proto UDP (17), length 138)
+    custcache00.wayport.net.domain > ubuntu.54470: 9325 NXDomain* 0/1/1 (110)
+17:40:53.798327 IP (tos 0x0, ttl 64, id 1296, offset 0, flags [none], proto UDP (17), length 81)
+    ubuntu.56445 > custcache00.wayport.net.domain: 25057+ [1au] PTR? 1.4.168.192.in-addr.arpa. (53)
+17:40:53.868453 IP (tos 0x0, ttl 236, id 62111, offset 0, flags [DF], proto UDP (17), length 136)
+    custcache00.wayport.net.domain > ubuntu.56445: 25057 NXDomain* 0/1/1 (108)
+17:40:53.870082 IP (tos 0x0, ttl 64, id 26844, offset 0, flags [none], proto UDP (17), length 82)
+    ubuntu.46852 > custcache00.wayport.net.domain: 2260+ [1au] PTR? 2.255.134.64.in-addr.arpa. (54)
+17:40:53.934714 IP (tos 0x0, ttl 236, id 22284, offset 0, flags [DF], proto UDP (17), length 191)
+    custcache00.wayport.net.domain > ubuntu.46852: 2260 1/2/3 2.255.134.64.in-addr.arpa. PTR custcache00.wayport.net. (163)
+17:40:54.641898 IP (tos 0x10, ttl 128, id 0, offset 0, flags [none], proto UDP (17), length 306)
+    _gateway.bootps > ubuntu.bootpc: BOOTP/DHCP, Reply, length 278, xid 0x7c792f6e, secs 1, Flags [none]
+	  Your-IP ubuntu
+	  Client-Ethernet-Address 38:7a:0e:4b:19:55 (oui Unknown)
+	  Vendor-rfc1048 Extensions
+	    Magic Cookie 0x63825363
+	    DHCP-Message (53), length 1: Offer
+	    Server-ID (54), length 4: _gateway
+	    Lease-Time (51), length 4: 3600
+	    Subnet-Mask (1), length 4: 255.255.254.0
+	    Domain-Name-Server (6), length 8: custcache01.wayport.net,custcache00.wayport.net
+	    Default-Gateway (3), length 4: _gateway
+17:40:54.641932 IP (tos 0xd0, ttl 64, id 29677, offset 0, flags [none], proto ICMP (1), length 334)
+    ubuntu > _gateway: ICMP ubuntu udp port bootpc unreachable, length 314
+	IP (tos 0x10, ttl 128, id 0, offset 0, flags [none], proto UDP (17), length 306)
+    _gateway.bootps > ubuntu.bootpc: BOOTP/DHCP, Reply, length 278, xid 0x7c792f6e, secs 1, Flags [none]
+	  Your-IP ubuntu
+	  Client-Ethernet-Address 38:7a:0e:4b:19:55 (oui Unknown)
+	  Vendor-rfc1048 Extensions
+	    Magic Cookie 0x63825363
+	    DHCP-Message (53), length 1: Offer
+	    Server-ID (54), length 4: _gateway
+	    Lease-Time (51), length 4: 3600
+	    Subnet-Mask (1), length 4: 255.255.254.0
+	    Domain-Name-Server (6), length 8: custcache01.wayport.net,custcache00.wayport.net
+	    Default-Gateway (3), length 4: _gateway
+17:40:54.642160 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto UDP (17), length 324)
+    0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 38:7a:0e:4b:19:55 (oui Unknown), length 296, xid 0x7c792f6e, secs 1, Flags [none]
+	  Client-Ethernet-Address 38:7a:0e:4b:19:55 (oui Unknown)
+	  Vendor-rfc1048 Extensions
+	    Magic Cookie 0x63825363
+	    DHCP-Message (53), length 1: Request
+	    Client-ID (61), length 7: ether 38:7a:0e:4b:19:55
+	    Parameter-Request (55), length 17: 
+	      Subnet-Mask (1), Time-Zone (2), Domain-Name-Server (6), Hostname (12)
+	      Domain-Name (15), MTU (26), BR (28), Classless-Static-Route (121)
+	      Default-Gateway (3), Static-Route (33), YD (40), YS (41)
+	      NTP (42), Unknown (119), Classless-Static-Route-Microsoft (249), Unknown (252)
+	      RP (17)
+	    MSZ (57), length 2: 576
+	    Requested-IP (50), length 4: ubuntu
+	    Server-ID (54), length 4: _gateway
+	    Hostname (12), length 6: "ubuntu"
+17:40:54.648183 IP (tos 0x10, ttl 128, id 0, offset 0, flags [none], proto UDP (17), length 306)
+    _gateway.bootps > ubuntu.bootpc: BOOTP/DHCP, Reply, length 278, xid 0x7c792f6e, secs 1, Flags [none]
+	  Your-IP ubuntu
+	  Client-Ethernet-Address 38:7a:0e:4b:19:55 (oui Unknown)
+	  Vendor-rfc1048 Extensions
+	    Magic Cookie 0x63825363
+	    DHCP-Message (53), length 1: ACK
+	    Server-ID (54), length 4: _gateway
+	    Lease-Time (51), length 4: 3600
+	    Subnet-Mask (1), length 4: 255.255.254.0
+	    Domain-Name-Server (6), length 8: custcache01.wayport.net,custcache00.wayport.net
+	    Default-Gateway (3), length 4: _gateway
+17:40:54.648198 IP (tos 0xd0, ttl 64, id 29680, offset 0, flags [none], proto ICMP (1), length 334)
+    ubuntu > _gateway: ICMP ubuntu udp port bootpc unreachable, length 314
+	IP (tos 0x10, ttl 128, id 0, offset 0, flags [none], proto UDP (17), length 306)
+    _gateway.bootps > ubuntu.bootpc: BOOTP/DHCP, Reply, length 278, xid 0x7c792f6e, secs 1, Flags [none]
+	  Your-IP ubuntu
+	  Client-Ethernet-Address 38:7a:0e:4b:19:55 (oui Unknown)
+	  Vendor-rfc1048 Extensions
+	    Magic Cookie 0x63825363
+	    DHCP-Message (53), length 1: ACK
+	    Server-ID (54), length 4: _gateway
+	    Lease-Time (51), length 4: 3600
+	    Subnet-Mask (1), length 4: 255.255.254.0
+	    Domain-Name-Server (6), length 8: custcache01.wayport.net,custcache00.wayport.net
+	    Default-Gateway (3), length 4: _gateway
+17:40:54.714209 IP (tos 0x0, ttl 64, id 26311, offset 0, flags [none], proto UDP (17), length 83)
+    ubuntu.55078 > custcache00.wayport.net.domain: 14820+ [1au] PTR? 0.254.255.255.in-addr.arpa. (55)
+17:40:54.817290 IP (tos 0x0, ttl 236, id 30517, offset 0, flags [DF], proto UDP (17), length 151)
+    custcache00.wayport.net.domain > ubuntu.55078: 14820 NXDomain 0/1/1 (123)
+17:40:54.818343 IP (tos 0x0, ttl 64, id 28385, offset 0, flags [none], proto UDP (17), length 83)
+    ubuntu.57795 > custcache00.wayport.net.domain: 48640+ [1au] PTR? 10.255.134.64.in-addr.arpa. (55)
+17:40:54.882557 IP (tos 0x0, ttl 236, id 20236, offset 0, flags [DF], proto UDP (17), length 192)
+    custcache00.wayport.net.domain > ubuntu.57795: 48640 1/2/3 10.255.134.64.in-addr.arpa. PTR custcache01.wayport.net. (164)
+17:40:54.897309 IP (tos 0x0, ttl 64, id 14954, offset 0, flags [DF], proto TCP (6), length 52)
+    ubuntu.40544 > a23-45-119-173.deploy.static.akamaitechnologies.com.http: Flags [.], cksum 0x5553 (incorrect -> 0xc703), ack 2166374156, win 496, options [nop,nop,TS val 1028845169 ecr 2715443039], length 0
+17:40:54.922356 IP (tos 0x0, ttl 64, id 46674, offset 0, flags [none], proto UDP (17), length 83)
+    ubuntu.52916 > custcache00.wayport.net.domain: 13467+ [1au] PTR? 173.119.45.23.in-addr.arpa. (55)
+17:40:54.945688 IP (tos 0x0, ttl 50, id 64681, offset 0, flags [DF], proto TCP (6), length 52)
+    a23-45-119-173.deploy.static.akamaitechnologies.com.http > ubuntu.40544: Flags [.], cksum 0xb619 (correct), ack 1, win 506, options [nop,nop,TS val 2715453278 ecr 1028773714], length 0
+17:40:54.991716 IP (tos 0x0, ttl 236, id 29945, offset 0, flags [DF], proto UDP (17), length 307)
+    custcache00.wayport.net.domain > ubuntu.52916: 13467 1/8/1 173.119.45.23.in-addr.arpa. PTR a23-45-119-173.deploy.static.akamaitechnologies.com. (279)
+17:40:58.641382 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has ubuntu tell _gateway, length 42
+17:40:58.641406 ARP, Ethernet (len 6), IPv4 (len 4), Reply ubuntu is-at 38:7a:0e:4b:19:55 (oui Unknown), length 28
+17:41:00.613063 IP6 (flowlabel 0x5828b, hlim 255, next-header UDP (17) payload length: 149) ubuntu.mdns > ff02::fb.mdns: [bad udp cksum 0xf70c -> 0x2327!] 0 [9q] PTR (QM)? _nfs._tcp.local. PTR (QM)? _ipp._tcp.local. PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. (141)
+17:41:00.642784 IP (tos 0x0, ttl 64, id 26891, offset 0, flags [none], proto UDP (17), length 129)
+    ubuntu.55145 > custcache00.wayport.net.domain: 36026+ [1au] PTR? b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (101)
+17:41:00.818035 IP (tos 0x0, ttl 236, id 18654, offset 0, flags [DF], proto UDP (17), length 193)
+    custcache00.wayport.net.domain > ubuntu.55145: 36026 NXDomain 0/1/1 (165)
+
