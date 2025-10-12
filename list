@@ -2,3 +2,8 @@ netstat -a
 ifconfig
 nmap -A -V
 dmesg
+
+-----------------------
+cd~ / cd ~
+echo $
+
